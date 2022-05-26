@@ -1,0 +1,23 @@
+{
+  "name": "repositorio",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --passWithNoTests"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JobsonFeer/workflow.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JobsonFeer/workflow/issues"
+  },
+  "homepage": "https://github.com/JobsonFeer/workflow#readme",
+  "dependencies": {
+    "jest": "^28.1.0"
+  }
+}
